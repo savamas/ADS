@@ -42,7 +42,7 @@ namespace Openedu.Week6
 
                     if (temp[1] != 0)
                     {
-                        //Left
+                        //Left fewfew
                         if (temp[1] != 0)
                         {
                             if (this.Vertexes[temp[1] - 1] == null)
